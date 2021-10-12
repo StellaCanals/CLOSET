@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Autour+One&display=swap');
+
+body{
+    margin: 0rem;
+    font-family: 'Autour One', cursive;
+}
+
+nav{
+    background-color: #FF1E56;
+    color: white;
+    padding: 6rem;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.5rem;
+    margin-right: 15px;
+}
+
+nav .Logo{
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 4rem;
+}
+
+nav .nav-links{
+    text-align: right;
+}
+
+.nav-a:hover{
+    color: slategray; 
+    font-size: 1.7rem;
+}
+
+div{
+    border: 3px solid #FF1E56;
+    text-align: center;
+    margin: auto;
+}
+
+img:hover{
+    border: 2px solid black;
+}
+
+div h1{
+    font-size: 3rem;
+}
+
+footer{
+    text-align: center;
+    background-color: #FF1E56;
+    color: white;
+    padding: 6rem;
+}
+
+footer p{
+    font-size: 2rem;
+}
+
+footer a{
+    text-decoration: none;
+    font-size: 4rem;
+}
+
+.contact{
+    text-align: center;
+    margin-bottom: 4rem;
+}
